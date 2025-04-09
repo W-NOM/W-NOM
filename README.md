@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @W-NOM
-- 🌱 I’m currently learning Node.js Unity2D Python
-- 📫 How to reach me  email W_NOM@outlook.dk
-- 😄 Pronouns: ?
-- 💻 Personal web pages: https://w-nom.github.io/Personal_web_pages/Personal_web_pages.html
+
